@@ -32,6 +32,21 @@ Free-community benchmark: ~25–30% conversion (practitioner guideline).
 **Do:** About as sales page (Hook→Transformation→Proof→1 CTA) · fill all required fields · 11 keywords = exact search terms · descriptive keyword group name · optimize retention/interaction.
 **Don't:** no points-farming (delisting) · no feature lists · no keyword stuffing · no multiple CTAs · no price/income claims on ad→free · don't remove lurkers.
 
+## Skool News #54–#66 (2026) — latest changes
+**[OFFICIAL]** = platform change · **[HOST]** = hosts' recommendation.
+- **Growth Boost [OFFICIAL]:** Skool runs paid IG/FB ads for you; 30% commission only on paying members Skool brings. On by default. Additive to your own traffic.
+- **Efficiency Score [OFFICIAL, rolling out]:** scores About-conversion + trial-conversion + price + retention + market; drives ad-budget allocation.
+- **Free Trial [OFFICIAL]:** lockable content + 1-click upgrade; trial members can't DM members. Conversion ~40–50% (60–70% spirituality/health/hobby). Optional.
+- **Freemium [OFFICIAL]:** instant plans page on Join + yellow Upgrade button for free members.
+- **Close Doors [OFFICIAL]:** pause new joins without stats damage. Never fake with free-lock or fake price (destroys stats).
+- **Skool Game [OFFICIAL]:** one MRR leaderboard (3k→1M; 100k = Platinum). Shows traffic + category rank.
+- **Discovery/search [OFFICIAL]:** semantic multilingual search > browse; trending algo; language/browser filter; rebuilt attribution.
+- **Packaging [HOST]:** cover image = YouTube-thumbnail that reads outside Skool; fresh-eyes test; one-thing focus; headline = founder + number; keywords; mirror on About.
+- **Trafficmaxxing [HOST]:** traffic is the 10× lever; one platform + one community; all traffic → About (no Linktree); 20-sec in-video plug (~5×) + specific description (3×); livestream + QR.
+- **Success patterns [HOST]:** show your skill; niche + outcome + timeframe; sell access/journey not content; start small; retention central.
+
+⚠️ Most growth/pricing patterns come from low-ticket recurring (4–200 USD/mo). The mechanics (packaging, keywords, one platform, traffic, discovery) transfer to high-ticket/boutique; the price/free-trial/"weird niche" tactics do not automatically — don't let them override a boutique positioning.
+
 ## Sources
 - Skool Help – Rank higher in Discovery: https://help.skool.com/article/152-how-to-rank-higher-in-discovery
 - Skool Help – Categorization: https://help.skool.com/article/153-how-is-my-group-categorized
@@ -42,5 +57,6 @@ Free-community benchmark: ~25–30% conversion (practitioner guideline).
 - SkoolProfit – SEO Checklist: https://skoolprofit.com/skool-seo-checklist
 - SkoolProfit – SEO Basics: https://skoolprofit.com/skool-seo-basics
 - Skool Community – Google ranking thread: https://www.skool.com/community/how-well-do-public-skool-pages-rank-in-google-search
+- Skool News (YouTube): #54 https://youtu.be/yhHqX7hDug4 · #58 https://youtu.be/W53XmhAnRpY · #61 https://youtu.be/5H0Gc6lQmlY · #64 https://youtu.be/BtFj8S4sK8g · #65 https://youtu.be/R33Wdu6vJis · #66 https://youtu.be/WoPcIfAYLyQ
 
 **Reliability:** Only Skool Help Center is primary. 11 keywords/Trending = Skool 2026 announcement, secondary. Numbers (25–30%, 50–60 chars) = practitioner guidelines.
