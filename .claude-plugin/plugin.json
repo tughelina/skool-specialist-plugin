@@ -1,0 +1,16 @@
+{
+  "name": "skool-specialist",
+  "description": "Skool community expert: About pages, Discovery ranking, Google SEO, community architecture, challenge & workshop launches.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Chantal Perrinjaquet"
+  },
+  "keywords": [
+    "skool",
+    "community",
+    "about-page",
+    "seo",
+    "discovery",
+    "marketing"
+  ]
+}

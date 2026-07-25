@@ -1,0 +1,15 @@
+{
+  "name": "skool-specialist-marketplace",
+  "description": "Chantal Perrinjaquet's marketplace — expert Skool community tools (About pages, Discovery ranking, SEO).",
+  "owner": {
+    "name": "Chantal Perrinjaquet"
+  },
+  "plugins": [
+    {
+      "name": "skool-specialist",
+      "source": "./",
+      "description": "Skool community expert: About pages, Discovery ranking, Google SEO, community architecture, challenge & workshop launches.",
+      "version": "1.0.0"
+    }
+  ]
+}
