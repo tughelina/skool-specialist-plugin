@@ -11,7 +11,7 @@ Works in **Claude.ai** (browser + desktop) and **Claude Code** — no coding req
 In Claude (Claude.ai or Claude Code), run:
 
 ```
-/plugin marketplace add <YOUR-GITHUB-USERNAME>/skool-specialist-plugin
+/plugin marketplace add tughelina/skool-specialist-plugin
 /plugin install skool-specialist@skool-specialist-marketplace
 ```
 
@@ -23,7 +23,7 @@ Then reload if prompted:
 
 Now just ask Claude anything about your Skool community — e.g. *"Write my Skool About page for [audience]"* or *"Why isn't my group ranking in Discovery?"*
 
-> Replace `<YOUR-GITHUB-USERNAME>` with the account that hosts this repository.
+> Replace `tughelina` with the account that hosts this repository.
 
 ---
 
